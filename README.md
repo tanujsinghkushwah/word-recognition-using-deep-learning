@@ -1,4 +1,4 @@
-# Word_Recognition_using_DL
+# Word Recognition using Deep Learning
 
 It is an android app which can recognize speech up to ten predefined words and display their probability that the word is spoken. I have used a TensorFlowLite model to process the speech and display the probability of words being from the predefined labels.
 
